@@ -1,15 +1,7 @@
-# CRM Coursework
+# Customer Relationship and Change Management (CRM & CM) with Business Intelligence – Coursework 1
 
-CRM coursework focused on customer relationship management, business intelligence and data analysis.
+This coursework focuses on market analysis, stock segmentation and investment using Python within the Google Colab environment.
 
-## Overview
+The coursework demonstrates the use of Python for data analysis, visualisation and financial data processing.
 
-This repository contains coursework completed as part of the Customer Relationship and Change Management with Business Intelligence module.
-
-## Technologies / Tools
-
-- Python
-- Jupyter Notebook
-- Data Analysis
-- Business Intelligence
-- CRM
+The complete coursework code is available in the `CRM_Codes.ipynb` notebook.
